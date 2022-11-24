@@ -6,6 +6,9 @@
 let safeTop = UIApplication.shared.keyWindow?.safeAreaInsets.top ?? 0
 let safeBottom = UIApplication.shared.keyWindow?.safeAreaInsets.bottom ?? 0
 ```
+### 1.2 导航栏显示与隐藏设置
+https://juejin.cn/post/6995836060391440414
+
 ## 2、控件
 ### 2.1 自定义Tabbar样式
 ```
